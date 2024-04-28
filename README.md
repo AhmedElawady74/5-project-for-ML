@@ -1,5 +1,6 @@
 # 5-project-for-ML
 
+THIS PROJECT NEEDS SOME MODIFICATIONS BECAUSE IT IS NOT FINISHED YET!!
 
 This project is divided into two parts: "I. Про MNIST-подобные данные" and "II. На реальных данных."
 
